@@ -21,9 +21,5 @@ A ferramenta OPP é muito fácil de usar. Em poucos passos você obterá bons re
 
 Vídeos ajuda e *Demos* estão disponiveis no YouTube pelo link: https://www.youtube.com/playlist?list=PLtmW3bZ2o9s68cSyKGiW1phVBSvx_bn0I
 
-## Próximas atualizações
-1. Estou trabalhando em uma interface gráfica e nos próximos meses estará disponível
-2. Novos métodos de otimização serão adicionados ao catálogo.
-
 OBS: O código foi testado com a versão MatLab R2019a. Apesar de improvável, pequenos conflitos podem ocorrer em versões anteriores. Se tiver problemas e encontrar algum BUG, por favor, nos ajude a melhorar a ferramenta submetendo um relatório dos problemas encontrados.
 Bons estudos!
